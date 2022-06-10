@@ -1,0 +1,4 @@
+#Fri Jun 10 22:11:33 CEST 2022
+base.0=C\:\\Project\\Unity-AR-Project-Examples\\T1 - Tracking Image AR\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
